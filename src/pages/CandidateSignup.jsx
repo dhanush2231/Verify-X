@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "../Css/Signup.css";
+import "../css/Signup.css";
 import logo from "../assets/verify-logo.png";
 
 function CandidateSignup({ setPage }) {
