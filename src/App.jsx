@@ -8,7 +8,7 @@ import HRForgotPassword from "./pages/HRForgotPassword";
 
 import CandidateLogin from "./pages/CandidateLogin";
 import CandidateSignup from "./pages/CandidateSignup";
-import CandidateForgotPassword from "./Pages/CandidateForgotPassword";
+import CandidateForgotPassword from "./pages/CandidateForgotPassword";
 
 import ExperienceCandidate from "./pages/ExperienceCandidate";
 
