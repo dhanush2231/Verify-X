@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "../Css/Auth.css";
+import "../css/Auth.css";
 import logo from "../assets/verify-logo.png";
 
 function HRForgotPassword({ setPage }) {
