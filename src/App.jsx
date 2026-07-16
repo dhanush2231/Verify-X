@@ -16,7 +16,7 @@ import HRDashboard from "./pages/HRDashboard";
 import CandidateList from "./pages/CandidateList";
 import CandidateDetails from "./pages/CandidateDetails";
 import EditCandidate from "./pages/EditCandidate";
-import VerificationRequests from "./pages/VerificationRequests";
+import VerificationRequests from "./pages/Verificationrequests";
 import Reports from "./pages/Reports";
 
 function App() {
