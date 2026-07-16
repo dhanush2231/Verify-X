@@ -1,0 +1,47 @@
+.sidebar{
+
+width:280px;
+
+height:100vh;
+
+background:linear-gradient(180deg,#ff4fa3,#d82f78);
+
+padding-top:30px;
+
+}
+
+
+.sidebar h2{
+
+text-align:center;
+
+color:white;
+
+margin-bottom:40px;
+
+}
+
+
+.sidebar button{
+
+display:block;
+
+width:220px;
+
+margin:20px auto;
+
+padding:15px;
+
+border:none;
+
+border-radius:12px;
+
+background:white;
+
+color:#e91e63;
+
+font-size:18px;
+
+font-weight:bold;
+
+}

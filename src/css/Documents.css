@@ -1,0 +1,75 @@
+.box {
+  max-width: 600px;
+  margin: 50px auto;
+  background: #fff;
+  padding: 36px 40px;
+  border-radius: 16px;
+  box-shadow: 0 10px 30px rgba(102, 126, 234, 0.12);
+  font-family: 'Segoe UI', Roboto, sans-serif;
+}
+
+.box h1 {
+  font-size: 24px;
+  color: #2d2d3a;
+  margin-bottom: 24px;
+}
+
+.box label {
+  font-size: 14px;
+  font-weight: 600;
+  color: #555;
+  display: block;
+  margin-bottom: 8px;
+}
+
+.box select {
+  width: 100%;
+  padding: 12px 14px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  font-size: 14.5px;
+  background: #fafafa;
+  outline: none;
+}
+
+.box select:focus {
+  border-color: #667eea;
+}
+
+.box input[type="file"] {
+  margin-top: 4px;
+  padding: 10px;
+  border: 1px dashed #aaa;
+  border-radius: 8px;
+  width: 100%;
+  box-sizing: border-box;
+  font-size: 13.5px;
+  cursor: pointer;
+}
+
+.box p {
+  margin-top: 14px;
+  font-size: 14px;
+  color: #444;
+  background: #f3f3fb;
+  padding: 8px 12px;
+  border-radius: 6px;
+}
+
+.box button {
+  margin-top: 24px;
+  padding: 12px 28px;
+  background: linear-gradient(90deg, #667eea, #764ba2);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: transform 0.15s, opacity 0.15s;
+}
+
+.box button:hover {
+  transform: translateY(-1px);
+  opacity: 0.92;
+}
